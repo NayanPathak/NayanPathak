@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nayan, a noob coder</h1>
+<h1 align="center">Hi 👋, I'm Nayan, a chai lover 🍵</h1>
 <h3 align="center">A Software Developer from India</h3>
 <img align="right"  width="400" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnruJtQT6TpeyTOIN_CH6QPGUnNfKjo9Cy6A&usqp=CAU"
 
