@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/pathaknayan05" target="blank"><img src="https://img.shields.io/twitter/follow/pathaknayan05?logo=twitter&style=for-the-badge" alt="pathaknayan05" /></a> </p>
 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 Currently learning **react native**
 
 - 💬 Ask me about **IoT, Flutter**
 
